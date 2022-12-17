@@ -1,0 +1,15 @@
+{
+  "name": "qa_cypress_challenge",
+  "version": "1.0.0",
+  "description": "Check24 Shopping Services QA challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "Romeo Avemegah",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
